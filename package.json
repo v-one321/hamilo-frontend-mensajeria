@@ -1,0 +1,25 @@
+{
+  "name": "front_mensajeria",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "buffer": "^6.0.3",
+    "pinia": "^2.1.7",
+    "sweetalert2": "^11.12.3",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3",
+    "vue-the-mask": "^0.11.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
